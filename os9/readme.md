@@ -1,0 +1,3 @@
+# First include packages that we want to use
+# then we have different sections which we add parts we want such as text, table, iamge...
+# For each begin{...} we need an end {...}
